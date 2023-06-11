@@ -4,10 +4,10 @@ A Python script to convert Open Note Block Studio files (.nbs) into .lua files f
 ## Usage
 This projects requires [pynbs](https://github.com/OpenNBS/pynbs)
 
-Download the repository, and move nbstolua.py to the same folder as your .nbs file
-Open nbstolua.py with command prompt and enter the name of the .nbs file 
-Once it's finished, find the noteblock.lua file in the same folder as the other two files
-Move noteblock.lua into ComputerCraft and run it. Make sure your Computer has a speaker installed!
+Download the repository, and move nbstolua.py to the same folder as your .nbs file\n
+Open nbstolua.py with command prompt and enter the name of the .nbs file \n
+Once it's finished, find the noteblock.lua file in the same folder as the other two files\n
+Move noteblock.lua into ComputerCraft and run it. Make sure your Computer has a speaker installed!\n
 
 ## Limitations
 ComputerCraft speakers only let you play 8 notes at a time. This shouldn't be an issue for most songs, but a few of the official Note Block Studio songs are affected by this.
