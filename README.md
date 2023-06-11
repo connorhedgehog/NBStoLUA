@@ -4,8 +4,8 @@ A Python script to convert Open Note Block Studio files (.nbs) into .lua files f
 ## Usage
 This projects requires [pynbs](https://github.com/OpenNBS/pynbs)
 
-Download the repository, and move nbstolua.py to the same folder as your .nbs file  <br>
-Open nbstolua.py with command prompt and enter the name of the .nbs file  <br>
+Download the repository, and move nbstolua.py to the same folder as your .nbs file<br>
+Open nbstolua.py with command prompt and enter the name of the .nbs file<br>
 Once it's finished, find the noteblock.lua file in the same folder as the other two files  <br>
 Move noteblock.lua into ComputerCraft and run it. Make sure your Computer has a speaker installed!  <br>
 
