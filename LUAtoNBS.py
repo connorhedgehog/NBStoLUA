@@ -10,7 +10,7 @@ script.close()
 script = open("noteblock.lua", "a")
 for x in song.notes:
   instrument = song.notes[cnote].instrument
-  # there's a better way to do this
+  # there's a better way to do this!
   if instrument == 0:
     instrument = "harp"
   elif instrument == 1:
